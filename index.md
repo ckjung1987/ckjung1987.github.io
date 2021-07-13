@@ -5,7 +5,11 @@ You can use the [editor on GitHub](https://github.com/ckjung1987/ckjung1987.gith
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Publications
-1. GPU-Ether: GPU-native Packet I/O for GPU Applications on Commodity Ethernet
+1. **GPU-Ether: GPU-native Packet I/O for GPU Applications on Commodity Ethernet**  
+   Changue Jung, Suhwan Kim, Ikjun Yeom, Honguk Woo, Younghoon Kim  
+   <span style="color:red">IEEE INFOCOM</span>, May. 2021
+
+
 
 ### Awards
 
