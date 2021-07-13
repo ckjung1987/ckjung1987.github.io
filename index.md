@@ -1,5 +1,4 @@
-## Changue Jung
-ckjung1987 at gmail.com  
+## ckjung1987 at gmail.com  
 
 
 I'm Ph.D. candidate student at Sungkyunkwan University in South Korea.
