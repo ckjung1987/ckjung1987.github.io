@@ -2,7 +2,6 @@
 
 
 I'm Ph.D. candidate student at Sungkyunkwan University in South Korea.  
-I'll update my info soon :)
 
 ### Publications 📝
 1. **GPU-Ether: GPU-native Packet I/O for GPU Applications on Commodity Ethernet**  
