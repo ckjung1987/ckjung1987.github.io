@@ -1,13 +1,11 @@
-## Hello, My name is Changue Jung
-
-You can use the [editor on GitHub](https://github.com/ckjung1987/ckjung1987.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Changue Jung
+ckjung1987@gmail.com  
+I'm Ph.D. candidate student at Sungkyunkwan University in South Korea.
 
 ### Publications
 1. **GPU-Ether: GPU-native Packet I/O for GPU Applications on Commodity Ethernet**  
-   Changue Jung, Suhwan Kim, Ikjun Yeom, Honguk Woo, Younghoon Kim  
-   <span style="color:red">IEEE INFOCOM</span>, May. 2021
+   **Changue Jung**, Suhwan Kim, Ikjun Yeom, Honguk Woo, Younghoon Kim  
+   [IEEE INFOCOM](https://infocom2021.ieee-infocom.org/accepted-paper-list-main-conference), May. 2021 (Acceptance rate 19.9%) [pdf]
 
 
 
