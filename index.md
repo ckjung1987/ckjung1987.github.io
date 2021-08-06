@@ -14,9 +14,9 @@ I'm Ph.D. candidate student at Sungkyunkwan University in South Korea.
 
 1. **Best Student Poster**  
    Performance Measurement of Congestion Control in Content-Centric Networking  
-   **AsiaFI**, Aug. 2013 [[proof:)](https://ckjung1987.github.io/asiafi13.jpg)]  
+   **AsiaFI**, Aug. 2013 [[link](https://ckjung1987.github.io/asiafi13.jpg)]  
    
 
 2. **Bronze Award**  
    GPU-Ether: GPU-native Packet I/O for GPU Applications on Commodity Ethernet  
-   **The 27th Samsung Humantech Paper Award**, Feb. 2021 (Computer Science & Engineering) [[proof:)](https://ckjung1987.github.io/humantech_27th.jpg)]
+   **The 27th Samsung Humantech Paper Award**, Feb. 2021 (Computer Science & Engineering) [[link](https://ckjung1987.github.io/humantech_27th.jpg)]
