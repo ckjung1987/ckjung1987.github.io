@@ -26,5 +26,5 @@ I'm Ph.D. candidate student at Sungkyunkwan University in South Korea.
 ### Invited talk 💬
 
 1. **Top Conference Session**
-   GPU-Ether: GPU-native Packet I/O for GPU Applications on Commodity Ethernet
+   GPU-Ether: GPU-native Packet I/O for GPU Applications on Commodity Ethernet  
    **Korea Software Congress(KSC) 2021**, Dec. 2021 [[link](https://ckjung1987.github.io/KSC_2021.jpg)]
